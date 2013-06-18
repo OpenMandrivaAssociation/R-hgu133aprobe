@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          2.9.0
-Release:          1
+Release:          2
 Summary:          Probe sequence data for microarrays of type hgu133a
 Group:            Sciences/Mathematics
 License:          LGPL
